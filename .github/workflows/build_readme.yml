@@ -11,4 +11,5 @@ jobs:
     uses: Academic-Codex/academic-codex.github.io/.github/workflows/build-readme.yml@main
     with:
       repo_cfg_path: ".github/scripts/repo.yml"
-    secrets: inherit
+    secrets:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
