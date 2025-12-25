@@ -8,7 +8,7 @@ on:
 
 jobs:
   call-central:
-    uses: Academic-Codex/academic-codex.github.io/.github/workflows/templates/jobs/build-readme.yml@main
+    uses: Academic-Codex/academic-codex.github.io/.github/workflows/build-readme.yml@main
     with:
       repo_cfg_path: ".github/scripts/repo.yml"
     secrets: inherit
