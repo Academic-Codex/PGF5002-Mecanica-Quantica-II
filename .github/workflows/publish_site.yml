@@ -3,6 +3,9 @@ name: Build & Publish (gh-pages)
 on:
   push:
     branches: [ main ]
+    paths-ignore:
+      - ".github/assets/**"
+      - "README.md"
   workflow_dispatch:
   repository_dispatch:
     types: [ site-template-updated ] 
