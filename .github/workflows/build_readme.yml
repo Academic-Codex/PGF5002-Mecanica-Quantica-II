@@ -12,5 +12,6 @@ jobs:
     with:
       template_repo: "Academic-Codex/academic-codex.github.io"
       template_path: ".github/readme"
+      repo_cfg_path: ".github/scripts/repo.yml"
       # template_ref: v1
     secrets: inherit
