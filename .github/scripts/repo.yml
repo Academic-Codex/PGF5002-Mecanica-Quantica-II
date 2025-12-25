@@ -26,3 +26,5 @@ REPO_TAGLINE: Quantum simulation • electronic structure • many-body systems
 # caminho local de saída (se quiser fixar)
 README_OUT: README.md
 ASSETS_DIR: .github/readme
+
+CTA_TEXT: Explore the full course website
