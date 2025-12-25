@@ -5,6 +5,7 @@ on:
     branches: [ main ]
     paths-ignore:
       - ".github/assets/**"
+      - ".github/scripts/**"
       - "README.md"
   workflow_dispatch:
   repository_dispatch:
