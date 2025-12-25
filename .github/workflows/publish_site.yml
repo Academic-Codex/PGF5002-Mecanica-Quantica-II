@@ -12,7 +12,7 @@ on:
 
 jobs:
   call-central:
-    uses: Academic-Codex/academic-codex.github.io/.github/workflows/templates/jobs/build-site.yml@main
+    uses: Academic-Codex/academic-codex.github.io/.github/workflows/build-site.yml@main
     with:
       execute: "false"
       repo_cfg_path: ".github/scripts/repo.yml"
