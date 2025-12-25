@@ -12,11 +12,9 @@ on:
 
 jobs:
   call-central:
-    uses: Academic-Codex/academic-codex.github.io/.github/workflows/build-site.yml@main
+    uses: Academic-Codex/academic-codex.github.io/.github/workflows/templates/jobs/build-site.yml@main
     with:
-      site_title: "${{ github.repository }}"
       execute: "false"
-      template_repo: "Academic-Codex/academic-codex.github.io"
       repo_cfg_path: ".github/scripts/repo.yml"
-      # template_ref: v1
+      template_repo: "Academic-Codex/academic-codex.github.io" 
     secrets: inherit
