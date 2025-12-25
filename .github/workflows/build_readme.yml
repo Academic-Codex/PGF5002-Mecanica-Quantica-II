@@ -1,0 +1,16 @@
+name: Update & Publish (README.md)
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [ readme-template-updated ]
+
+
+jobs:
+  call-central:
+    uses: Academic-Codex/academic-codex.github.io/.github/workflows/build-readme.yml@main
+    with:
+      template_repo: "Academic-Codex/academic-codex.github.io"
+      template_path: ".github/readme"
+      # template_ref: v1
+    secrets: inherit

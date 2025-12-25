@@ -12,3 +12,18 @@ REFERENCIAS: |
 GITHUB_LINK: https://github.com/Academic-Codex/PGF5002-Mecanica-Quantica-II#readme
 
 HERO_FILE: mecanica-quantica-ii.png
+
+SITE_URL: https://academic-codex.github.io/PGF5002-Mecanica-Quantica-II
+GITHUB_URL: https://github.com/Academic-Codex/PGF5002-Mecanica-Quantica-II
+
+# textos dos banners (opcional — se não vier, usa defaults)
+BANNER_ACCESS_TITLE: Explore the full course website
+BANNER_ACCESS_SUBTITLE: lectures • notebooks • references • interactive material
+BANNER_ACCESS_CTA: Access the site →
+
+# “cards” de destaque (para profile README ou hubs)
+REPO_TAGLINE: Quantum simulation • electronic structure • many-body systems
+
+# caminho local de saída (se quiser fixar)
+README_OUT: README.md
+ASSETS_DIR: .github/readme
