@@ -16,6 +16,6 @@ jobs:
     uses: Academic-Codex/academic-codex.github.io/.github/workflows/build-site.yml@main
     with:
       execute: "false"
-      repo_cfg_path: ".github/scripts/repo.yml"
+      placeholders_path: ".github/placeholders"
       template_repo: "Academic-Codex/academic-codex.github.io" 
     secrets: inherit

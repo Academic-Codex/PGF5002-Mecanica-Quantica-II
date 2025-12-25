@@ -14,5 +14,5 @@ jobs:
   call-central:
     uses: Academic-Codex/academic-codex.github.io/.github/workflows/build-readme.yml@main
     with:
-      repo_cfg_path: ".github/scripts/repo.yml"
+      placeholders_path: ".github/placeholders"
     secrets: inherit
