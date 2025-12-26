@@ -23,7 +23,7 @@
         font-family="Inter, Arial, sans-serif"
         font-weight="600"
     >
-        <tspan fill="#999999">
+        <tspan fill="#FFFF00">
             PGF5002 — Mecânica Quântica II
         </tspan>
     </text>
