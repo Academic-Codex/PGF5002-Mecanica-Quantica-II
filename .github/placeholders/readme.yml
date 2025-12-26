@@ -1,10 +1,3 @@
-SITE_URL: https://academic-codex.github.io/PGF5002-Mecanica-Quantica-II
-GITHUB_URL: https://github.com/Academic-Codex/PGF5002-Mecanica-Quantica-II
-
-# textos dos banners (opcional — se não vier, usa defaults)
-BANNER_ACCESS_TITLE: Explore the full course website
-BANNER_ACCESS_SUBTITLE: lectures • notebooks • references • interactive material
-BANNER_ACCESS_CTA: Access the site →
 
 # “cards” de destaque (para profile README ou hubs)
 REPO_TAGLINE: Quantum simulation • electronic structure • many-body systems
@@ -14,3 +7,15 @@ README_OUT: README.md
 ASSETS_DIR: .github/readme
 
 CTA_TEXT: Upcoming topic...
+
+THEME: board
+
+# Cores (SVG tokens)
+BG_1: "#0b1220"
+BG_2: "#111827"
+TEXT_MAIN: "#e5e7eb"
+TEXT_MUTED: "#9ca3af"
+ACCENT: "#93c5fd"
+
+# (opcionais, se você for usar no SVG)
+CARD_RADIUS: "18"
