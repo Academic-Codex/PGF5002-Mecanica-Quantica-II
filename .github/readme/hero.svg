@@ -1,8 +1,8 @@
 <svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
-            <stop offset="0%" stop-color="#0b1220" />
-            <stop offset="100%" stop-color="#111827" />
+            <stop offset="0%" stop-color="#3f4f2f" />
+            <stop offset="100%" stop-color="#2f3a23" />
         </linearGradient>
     </defs>
 
@@ -23,7 +23,7 @@
         font-family="Inter, Arial, sans-serif"
         font-weight="600"
     >
-        <tspan fill="#e5e7eb">
+        <tspan fill="#f3f4f2">
             PGF5002 — Mecânica Quântica II
         </tspan>
     </text>
@@ -36,7 +36,7 @@
         font-size="18"
         font-family="Inter, Arial, sans-serif"
     >
-        <tspan fill="#9ca3af">
+        <tspan fill="#c7cbbf">
             Quantum simulation • electronic structure • many-body systems
         </tspan>
     </text>
@@ -50,7 +50,7 @@
         font-family="Inter, Arial, sans-serif"
         font-weight="500"
     >
-        <tspan fill="#93c5fd">
+        <tspan fill="#9ecae1">
             → Upcoming topic...
         </tspan>
     </text>
