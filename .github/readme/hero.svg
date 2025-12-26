@@ -1,57 +1,32 @@
-<svg data-build="2025-12-26T02:30:22.298746Z" width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
-            <stop offset="0%" stop-color="#000000" />
-            <stop offset="100%" stop-color="#ffffff" />
-        </linearGradient>
-    </defs>
+<svg data-build="2025-12-26T02:37:57.646301Z" width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b1220" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+  </defs>
 
-    <!-- Card -->
-    <rect
-        width="1200"
-        height="260"
-        rx="5"
-        fill="url(#g)"
-    />
+  <!-- Card -->
+  <rect width="1200" height="260" rx="18" fill="url(#g)" />
 
-    <!-- Title -->
-    <text
-        x="50%"
-        y="105"
-        text-anchor="middle"
-        font-size="42"
-        font-family="Inter, Arial, sans-serif"
-        font-weight="600"
-    >
-        <tspan fill="#fff000">
-            PGF5002 — Mecânica Quântica II
-        </tspan>
-    </text>
+  <!-- Title -->
+  <text x="50%" y="105" text-anchor="middle"
+    font-size="42" fill="#e5e7eb"
+    font-family="Inter, Arial, sans-serif" font-weight="600">
+    PGF5002 — Mecânica Quântica II
+  </text>
 
-    <!-- Description -->
-    <text
-        x="50%"
-        y="145"
-        text-anchor="middle"
-        font-size="18"
-        font-family="Inter, Arial, sans-serif"
-    >
-        <tspan fill="#303030">
-            Quantum simulation • electronic structure • many-body systems
-        </tspan>
-    </text>
+  <!-- Description -->
+  <text x="50%" y="145" text-anchor="middle"
+    font-size="18" fill="#9ca3af"
+    font-family="Inter, Arial, sans-serif">
+    Quantum simulation • electronic structure • many-body systems
+  </text>
 
-    <!-- CTA -->
-    <text
-        x="50%"
-        y="185"
-        text-anchor="middle"
-        font-size="18"
-        font-family="Inter, Arial, sans-serif"
-        font-weight="500"
-    >
-        <tspan fill="#fff000">
-            → Upcoming tpic...
-        </tspan>
-    </text>
+  <!-- CTA -->
+  <text x="50%" y="185" text-anchor="middle"
+    font-size="18" fill="#93c5fd"
+    font-family="Inter, Arial, sans-serif" font-weight="500">
+    → Upcoming tpic...
+  </text>
 </svg>
