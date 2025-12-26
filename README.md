@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/readme/her.webp" width="100%" />
+  <img src=".github/readme/theme.gif" width="100%" />
 </p>
 
 <p align="center">
