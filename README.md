@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="">
+  <a href="https://academic-codex.github.io/PGF5002-Mecanica-Quantica-II">
     <img src=".github/readme/hero.svg" width="100%" alt="Access the course website" />
   </a>
 </p>
