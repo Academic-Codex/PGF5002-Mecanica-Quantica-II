@@ -11,11 +11,11 @@ CTA_TEXT: Upcoming topic...
 THEME: board
 
 
-BG_1: "#3f4f2f"
-BG_2: "#2f3a23"
+BG_1: "#000000"
+BG_2: "#000000"
 
-TEXT_MAIN: "#f3f4f2"
-TEXT_MUTED: "#c7cbbf"
-ACCENT: "#9ecae1"
+TEXT_MAIN: "#ffffff"
+TEXT_MUTED: "#303030"
+ACCENT: "#555555"
 
-CARD_RADIUS: "18"
+CARD_RADIUS: "30"
