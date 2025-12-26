@@ -1,17 +1,12 @@
-REPO_TAGLINE: Quantum simulation • electronic structure • many-body systems
-
+REPO_TAGLINE: Second Quantization • Approximation methods • Symmetries
 ASSETS_DIR: .github/readme
-
 CTA_TEXT: Upcoming topic ...
-THEME: library
-
+THEME: peace
 SITE_URL: https://academic-codex.github.io/PGF5002-Mecanica-Quantica-II
 
-BG_1: "#000000"
-BG_2: "#ffffff"
-
-TEXT_MAIN: "#fff000"
-TEXT_MUTED: "#303030"
-ACCENT: "#fff000"
-
-CARD_RADIUS: "5"
+BG_1: "#0B3D2E"
+BG_2: "#1B5E20"
+TEXT_MAIN: "#E8F5E9"
+TEXT_MUTED: "#C8E6C9"
+ACCENT: "#81C784"
+CARD_RADIUS: "18"
