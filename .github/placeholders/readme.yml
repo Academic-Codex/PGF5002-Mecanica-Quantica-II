@@ -6,7 +6,7 @@ REPO_TAGLINE: Quantum simulation • electronic structure • many-body systems
 README_OUT: README.md
 ASSETS_DIR: .github/readme
 
-CTA_TEXT: Upcoming topic...
+CTA_TEXT: Upcoming tpic...
 
 THEME: board
 
