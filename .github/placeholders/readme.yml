@@ -1,13 +1,8 @@
-
-# “cards” de destaque (para profile README ou hubs)
 REPO_TAGLINE: Quantum simulation • electronic structure • many-body systems
 
-# caminho local de saída (se quiser fixar)
-README_OUT: README.md
 ASSETS_DIR: .github/readme
 
-CTA_TEXT: Upcoming tpic...
-
+CTA_TEXT: Access the full course website
 THEME: library
 
 SITE_URL: https://academic-codex.github.io/PGF5002-Mecanica-Quantica-II
