@@ -1,10 +1,10 @@
 <p align="center">
-  <img src=".github/readme/theme.webp" width="100%" />
+  <img src=".github/readme/theme.gif" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://academic-codex.github.io/PGF5002-Mecanica-Quantica-II">
-    <img src=".github/readme/hero.svg?v=2025-12-26T01:49:30.126417Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2025-12-26T01:53:33.720861Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
