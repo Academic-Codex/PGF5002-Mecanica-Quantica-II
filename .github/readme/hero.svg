@@ -7,35 +7,49 @@
     </defs>
 
     <!-- Card -->
-    <rect width="1200" height="260" rx="18" fill="url(#g)" />
+    <rect
+        width="1200"
+        height="260"
+        rx="18"
+        fill="url(#g)"
+    />
 
     <!-- Title -->
-    <text x="50%" y="105"
+    <text
+        x="50%"
+        y="105"
         text-anchor="middle"
         font-size="42"
         font-family="Inter, Arial, sans-serif"
-        font-weight="600">
+        font-weight="600"
+    >
         <tspan fill="#e5e7eb">
             PGF5002 — Mecânica Quântica II
         </tspan>
     </text>
 
     <!-- Description -->
-    <text x="50%" y="145"
+    <text
+        x="50%"
+        y="145"
         text-anchor="middle"
         font-size="18"
-        font-family="Inter, Arial, sans-serif">
+        font-family="Inter, Arial, sans-serif"
+    >
         <tspan fill="#9ca3af">
             Quantum simulation • electronic structure • many-body systems
         </tspan>
     </text>
 
     <!-- CTA -->
-    <text x="50%" y="185"
+    <text
+        x="50%"
+        y="185"
         text-anchor="middle"
         font-size="18"
         font-family="Inter, Arial, sans-serif"
-        font-weight="500">
+        font-weight="500"
+    >
         <tspan fill="#93c5fd">
             → Upcoming topic...
         </tspan>
