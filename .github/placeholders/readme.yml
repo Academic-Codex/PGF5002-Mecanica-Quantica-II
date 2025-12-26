@@ -10,12 +10,12 @@ CTA_TEXT: Upcoming topic...
 
 THEME: board
 
-# Cores (SVG tokens)
-BG_1: "#0b1220"
-BG_2: "#111827"
-TEXT_MAIN: "#e5e7eb"
-TEXT_MUTED: "#9ca3af"
-ACCENT: "#93c5fd"
 
-# (opcionais, se você for usar no SVG)
+BG_1: "#3f4f2f"
+BG_2: "#2f3a23"
+
+TEXT_MAIN: "#f3f4f2"
+TEXT_MUTED: "#c7cbbf"
+ACCENT: "#9ecae1"
+
 CARD_RADIUS: "18"
