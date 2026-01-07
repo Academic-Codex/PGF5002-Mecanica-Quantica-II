@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/PGF5002-Mecanica-Quantica-II">
-    <img src=".github/readme/hero.svg?v=2026-01-06T15:36:17.548315Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-07T03:38:57.869174Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
